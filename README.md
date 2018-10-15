@@ -9,13 +9,11 @@ If you don't have python install and to able to run the hello.py script please d
 | Linux  |Start terminal |
 | macOS | Press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result. |
   
-  3. Type "cd <path>" where <path> is the location of the hello.py script
+  3. run `git clone https://github.com/yaroslav-007/python-hello`
+  4. change directory `cd python-hello`
   4. Enter the following commnads:
   
   
- ```
-    vagrant init vatman/xenial64
-    
-    vagrant up
-    
+```
+vagrant up
 ```
